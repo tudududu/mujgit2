@@ -10,3 +10,5 @@ Tento repozitář slouží výhradně pro účely testování.
 250119 vytvorena verze 3.0
 250119 vytvoren tag 3.0.0
 250119 vytvoren tag 3.0.1
+250119 vytvorena verze 4.0
+250119 vytvoren tag 4.0.0
