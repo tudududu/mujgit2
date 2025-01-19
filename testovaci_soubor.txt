@@ -2,3 +2,5 @@ Nový text 3
 Nově přidaný text
 
 verze 1.0
+
+verze 2.0
